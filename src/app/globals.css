@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.bangers-regular {
+  font-family: "Bangers", system-ui;
+  font-weight: 100;
+  font-style: normal;
+}
